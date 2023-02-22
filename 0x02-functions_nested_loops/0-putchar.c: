@@ -1,0 +1,2 @@
+r.c:19:2: error: expected declaration or statement at end of input
+   19 |  return (0);
